@@ -16,6 +16,8 @@ I’m a software developer who loves building creative solutions and exploring n
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50"/>
+  ![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge&logoColor=white)
+
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
@@ -23,7 +25,7 @@ I’m a software developer who loves building creative solutions and exploring n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="50"/>
 
   <!-- AWS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/>
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
   <!-- GitKraken -->
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gitkraken.svg" alt="GitKraken" width="50"/>
