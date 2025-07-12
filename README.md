@@ -40,9 +40,9 @@ I’m a software developer who loves building creative solutions and exploring n
 
 ## 📫 How to reach me
 
-- <a href="mailto:xhenidautaj2@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" style="margin-right:10px;"/>
-  </a>
+<a href="mailto:xhenidautaj2@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" style="margin-right:10px;"/>
+</a>
 
 
 
