@@ -31,7 +31,7 @@ I’m a software developer who loves building creative solutions and exploring n
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gitkraken.svg" alt="GitKraken" width="50" style="margin-right: 10px;"/>
 </p>
 
-## Interests
+## 💡 Interests
 
 - Building reliable and scalable software
 - Exploring modern cloud technologies
