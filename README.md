@@ -16,7 +16,7 @@ I’m a software developer who loves building creative solutions and exploring n
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50"/>
-  <img src="https://python.langchain.com/_static/images/langchain_logo_with_text.png" alt="LangChain" width="120"/>
+  ![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge&logoColor=white)
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50"/>
